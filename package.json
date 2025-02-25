@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sammcj/mcp-package-docs.git"
+    "url": "git+https://github.com/jankowtf/mcp-package-docs.git"
   },
   "keywords": [
     "mcp",
@@ -34,19 +34,17 @@
     "docs",
     "go",
     "python",
-    "npm",
-    "sammcj",
-    "smcleod"
+    "npm"
   ],
   "author": {
-    "name": "Sam McLeod",
-    "url": "https://smcleod.net"
+    "name": "Janko Thyson",
+    "url": "https://github.com/jankowtf"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sammcj/mcp-package-docs/issues"
+    "url": "https://github.com/jankowtf/mcp-package-docs/issues"
   },
-  "homepage": "https://github.com/sammcj/mcp-package-docs#readme",
+  "homepage": "https://github.com/jankowtf/mcp-package-docs#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.5.0",
     "axios": "^1.7.9",
