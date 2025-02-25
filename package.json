@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "type": "module",
   "bin": {
-    "@jankowtf/mcp-package-docs": "build/index.js"
+    "mcp-package-docs": "build/index.js"
   },
   "files": [
     "build",
